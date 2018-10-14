@@ -33,6 +33,7 @@ class Main {
         return sb.toString();
     }
 
+    
     public static void main(String... args){
         Scanner reader = new Scanner(System.in);
         int cases = 0;
